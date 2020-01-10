@@ -10,6 +10,9 @@ public class Conectar {
 	PrintWriter salida = null;
     BufferedReader entrada = null;
     
+    
+    String nada ="nada como estas";
+    
     final int puerto=8000;
    
     
