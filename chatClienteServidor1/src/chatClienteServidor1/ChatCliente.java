@@ -2,7 +2,7 @@ package chatClienteServidor1;
 
 import java.io.*;
 import java.net.*;
-
+//holas
 public class ChatCliente {
   public static void main(String[] args) throws IOException {
 
